@@ -1,4 +1,10 @@
-## lick my sack
+##   ,--,  ,---.  ,-.    ,---.  ,---.  ,-..-. .-.         
+.' .')  | .-'  | |    | .-'  | .-.\ |(|| | | ||\    /| 
+|  |(_) | `-.  | |    | `-.  | `-'/ (_)| | | ||(\  / | 
+\  \    | .-'  | |    | .-'  |   (  | || | | |(_)\/  | 
+ \  `-. |  `--.| `--. |  `--.| |\ \ | || `-')|| \  / | 
+  \____\/( __.'|( __.'/( __.'|_| \)\`-'`---(_)| |\/| | 
+       (__)    (_)   (__)        (__)         '-'  '-' 
 
 <!--
 **mexicancyberweapon/mexicancyberweapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
