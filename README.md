@@ -1,5 +1,7 @@
 #### About Me
-- Studying Cybersecurity at Arizona State University
+- I am studying Cybersecurity at Arizona State University
+- I am extremely passionate about Red Teaming and Offensive Security
+- I am a Bug Bounty Hunter in my freetime. 
 
 ___
 
